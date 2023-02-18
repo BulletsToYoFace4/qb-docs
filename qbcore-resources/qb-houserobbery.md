@@ -23,7 +23,7 @@ If players aren't using an advanced lockpick then they need to have a regular lo
 ```lua
 Config = {}
 Config.MinZOffset = 45 -- how far under the ground the shell will spawn
-Config.MinimumHouseRobberyPolice = 2 -- minimum amount of police needed to rob
+Config.MinimumHouseRobberyPolice = 0 -- minimum amount of police needed to rob
 Config.MinimumTime = 5 -- minimum in-game hour to rob
 Config.MaximumTime = 22 -- maximum in-game hour to rob
 ```
